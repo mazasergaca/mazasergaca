@@ -4,7 +4,8 @@
 - 🌗  reserve
 - 🌚  reserve
 
-<div align="center">
+<div>
+  <div align="center">
   <a href="https://github.com/mazasergaca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazasergaca&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazasergaca&layout=compact&langs_count=7&theme=gotham"/>
@@ -16,6 +17,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original.svg">  
 </div>
+ </div>
   
   ##
   
