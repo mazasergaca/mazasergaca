@@ -1,7 +1,7 @@
-## Hi, I'm Serhii Deineha
-- 🌕  reserve
-- 🌗  reserve
-- 🌚  reserve
+## Hello there 👋
+- 😺  I'm Serhii Deineha
+- 🌍  Ukraine
+- 💻  Frontend Developer
 
 
   <a href="https://github.com/mazasergaca">
